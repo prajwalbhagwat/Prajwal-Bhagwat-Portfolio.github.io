@@ -14,7 +14,7 @@ I used media queries for mobile phones with smaller displays to adjust the webpa
 I used Visual Studio Code to write the code and GitHub to host the project.
 Website link: https://prajwalbhagwat.github.io/Prajwal-Portfolio.github.io/
 
-Copyright © 2021 Prajwal Bhagwat 
+Created by Prajwal Bhagwat |  © 2021 All rights reserved
 
 Contact Information:
 Prajwal Bhagwat
